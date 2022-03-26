@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arsh Patel</h1>
 <h3 align="center">A passionate Full stack Developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs, Java, Flask**
+- 🌱 I’m currently learning **ReactJs, Java, Flask, Django**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, Flask, Django, Bootstarp**
 
 - ⚡ Fun fact **I an not a Hacker**
 
